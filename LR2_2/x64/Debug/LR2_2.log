@@ -1,0 +1,17 @@
+﻿  LR2_2.cpp
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(40,16): warning C4244: =: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(68,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(103,17): warning C4244: =: преобразование "uint64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(138,10): warning C4244: +=: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(152,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(164,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(177,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(210,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(229,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(270,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(275,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(288,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(342,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(353,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\LR2_2\LR2_2\LR2_2.cpp(358,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LR2_2.vcxproj -> C:\Users\user\source\repos\LR2_2\x64\Debug\LR2_2.exe
